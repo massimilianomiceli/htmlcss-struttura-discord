@@ -102,3 +102,6 @@ footer{
     margin-top: 1px;
     margin-bottom: 1px;
 }
+main > div:first-child{
+    border-bottom: 5px solid #ADD8E6;
+ }
